@@ -17,7 +17,7 @@ Hi, I'm [Julian Belmonte](https://jucora.github.io/), a Full-Stack Developer fro
   <img align="right" alt="GIF" src="https://media.giphy.com/media/4MwP0n2iPbkcM/giphy.gif?raw=true" width="450" height="270" />
   <br />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - :technologist: I am always excited to learn new technologies every day.
 - I love Jazz and Flamenco music.
