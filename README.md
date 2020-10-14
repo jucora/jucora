@@ -14,7 +14,7 @@
 
 Hi, I'm [Julian Belmonte](https://jucora.github.io/), a Full-Stack Developer from Colombia :colombia:, with experience in multiple technologies and programming languages. Video game development is my favorite approach to programming. I feel very happy to create new realities by making videogames and interactive projects. I'm a professional musician, writer, and technology lover.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/4MwP0n2iPbkcM/giphy.gif?raw=true" width="450" height="270" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif?raw=true" width="450" height="270" />
   <br />
   
 **Talking about Personal Stuff:**
